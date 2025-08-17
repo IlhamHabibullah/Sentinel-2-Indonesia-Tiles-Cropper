@@ -1,4 +1,4 @@
-🛰️ Sentinel-2 Indonesia Tiles Cropper
+## 🛰️ Sentinel-2 Indonesia Tiles Cropper
 ![Sentinel-2 Tiles Indonesia](./images/sentinel_tiles_indonesia.png)
 Peta grid tiles Sentinel-2 untuk wilayah Indonesia
 Script Python untuk memotong (crop) Sentinel-2 UTM Tiling Grid sesuai dengan area Indonesia dan menambahkan koordinat latitude-longitude untuk setiap tile. Script ini menghasilkan output dalam format Shapefile dan CSV.
